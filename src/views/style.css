@@ -1,0 +1,43 @@
+#nowtalk-app {
+    background-color: gray;
+    bottom: 0;
+    max-height: 400px;
+    max-width: 300px;
+    padding: 0.25em;
+    position: fixed;
+    right: 2em;
+    width: 300px;
+}
+
+#nowtalk-room-action-bar {
+    background-color: white;
+    margin: 0.1em;
+}
+
+#nowtalk-room-add-message {
+    background-color: white;
+    position: relative;
+    margin: 0.1em;
+}
+
+#nowtalk-room-add-message textarea {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+#nowtalk-room-messages {
+    background-color: white;
+    height: 150px;
+    margin: 0.1em;
+    overflow-y: scroll;
+}
+
+#nowtalk-room-title-bar {
+    background-color: white;
+    margin: 0.1em;
+}
+
+#nowtalk-title-bar {
+    background-color: white;
+    margin: 0.1em;
+}
